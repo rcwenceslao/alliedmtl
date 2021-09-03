@@ -1,0 +1,75 @@
+.bg-base, .menuzord-menu>li a:before, .button-primary, #search-button, .section-head .head-dot:before, .footer-icon a:hover, #top-button, .blog-post-wrap-two.blog-post-wrap .card-link.bg-base, .sub-submit .button-red{
+    background: #e23e57 !important;
+}
+#top-button:hover{
+    background: #1b3039 !important;
+}
+.button-primary:hover,  .blog-post-wrap-two.blog-post-wrap .card-link.bg-base:hover, .sub-submit .button-red:hover{
+    background: #ce465a !important;
+    color: #fff !important;
+}
+.menuzord-menu ul.dropdown li a:hover, .color-base, .footer-menu li a:hover, .nav-layout-two .menuzord-menu>li a:hover, .nav-layout-two .menuzord-menu>li:hover>a{
+    color: #e23e57  !important;
+}
+.blog-post-wrap .card-button.color-base, .footer-item li .color-base, .button-white, .color-red, .blog-page .blog-post-wrap .card-button:hover{
+    color: #e23e57 !important;
+}
+.fun-right .color-base{
+    color: #2aba6e !important;
+}
+.blog-post-wrap .card-button.color-base:hover{
+    color: #ce465a !important;
+}
+.blog-post-wrap .card-link.bg-base, .blog-post-wrap .card-button:before, .button-red, .bg-red, .blog-page .blog-post-wrap .card-button:hover:before, .cause-sidebar h4:after, .sidebar-form input[type="submit"], .input-radio label.selected, .single-page-content .cause-item .bg-red, .single-page-content .cause-item.item-one .cause-percent, .about-layout-two .about-list li:before{
+    background: #e23e57 !important;
+}
+.blog-post-wrap .card-link.bg-base:hover, .blog-post-wrap .card-button:hover:before, .button-red:hover{
+    background: #ce465a !important
+}
+.contact-form input:hover, .contact-form input:focus, .contact-form textarea:hover, .contact-form textarea:focus, .sidebar-search input:hover, .sidebar-search input:focus, .sidebar-form input[type="submit"], .cause-single-form form input:hover, .cause-single-form form textarea:hover, .cause-single-form form input:focus, .cause-single-form form textarea:focus,.comment-form .comment-group:hover, .comment-form .comment-textarea:hover, .comment-form .comment-group:focus, .comment-form .comment-textarea:focus{
+    border-color: #e23e57;
+}
+.single-page-content .cause-item.item-one .cause-percent:before {
+    border-top-color: #e23e57 !important;
+}
+.layer-left{
+    background: rgba(226, 62, 87, .8) !important;
+}
+.fun-bg{
+    background-image: linear-gradient(to right, rgba(226, 62, 87, .9), rgba(226, 62, 87, .9)), url('../img/fun-bg.jpg');
+}
+.feature-item.item-three{
+    background-image: linear-gradient(to right, rgba(42, 186, 110, .85), rgba(42, 186, 110, .85)), url('../img/pic-2.jpg');
+}
+.feature-layout-two .feature-item.item-three {
+    background-image: linear-gradient(to right, rgba(42, 186, 110, .85), rgba(42, 186, 110, .85)), url('../img/feature/3.jpg');
+}
+.blog-post-wrap .card-button.color-red:before, .team-item .bg-red, .blog-post-wrap .bg-red, .cause-item .bg-red {
+    background: #2aba6e !important;
+}
+.blog-post-wrap .card-button.color-secondary:before {
+    background: #1b3039 !important;
+}
+.blog-post-wrap .card-button.color-red:hover:before, .blog-post-wrap .card-link.bg-red:hover {
+    background: #1f7b4b !important;
+}
+.blog-post-wrap .card-button.color-secondary:hover:before {
+    background: #000 !important;
+}
+.button-play.bg-base, .button-play.bg-red, .button-play {
+    background: #e23e57 !important;
+    animation: at-ripple-red 1.5s linear infinite
+}
+.blog-post-wrap a.color-red, .footer-number.color-red{
+    color: #2aba6e !important;
+}
+.blog-post-wrap a.color-red:hover{
+    color: #1f7b4b !important;
+}
+.blog-page .blog-post-wrap .card-button:before{
+    background: #939393 !important;
+}
+
+.event-layout-two .event-item .event-date {
+    border: 2px solid #ffbc64;
+}
